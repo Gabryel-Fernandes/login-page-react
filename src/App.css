@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a{
+    list-style: none;
+    color: #fff;
+}
+
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url("assets/images/calm-forest.webp") center center no-repeat;
+    background-size: cover;
+}
